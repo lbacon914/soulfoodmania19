@@ -1,0 +1,32 @@
+
+  main {
+    background-color: rgba(233, 170, 170, 0.2);
+  }
+  .red-text {
+    color: green;
+  }
+
+  h1 {
+    font-family: Lobster;
+    font-size: 84px;
+    text-align: center;
+    background-color: rgba(139, 201, 149, 0.2);
+  }
+ 
+  
+  h3 {
+    font-family: monospace;
+    font-style: italic;
+    font-size: 23px;
+ }
+ div {
+    font-family: monospace;
+    font-style: italic;
+    font-style: bold;
+    text-align: center;
+    font-size: 18px;
+  }
+  .images {
+      text-align: center;
+      justify-content: space-between;
+  }
